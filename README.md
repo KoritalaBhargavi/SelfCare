@@ -32,14 +32,14 @@ A **console-based Java application** that empowers users to take care of their *
 ```
 SelfCareApp/
 ├── Main.java
-├── SkincareArea.java
-├── HaircareArea.java
-├── BodycareArea.java
-├── GutcareArea.java
-├── SelfCareCategory.java   # Interface
-├── AuthManager.java
-├── log.txt
-├── users.txt
+├── Skincare.java
+├── Haircare.java
+├── Bodycare.java
+├── Gutcare.java
+├── SelfCareArea.java   # Abstract class
+├── CareAdvice.java     #Interface
+├── users_db.txt
+├── users_log.csv
 ```
 
 ---
